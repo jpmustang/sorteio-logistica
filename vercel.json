@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/sorteio.js": {
+      "maxDuration": 30
+    }
+  }
+}
